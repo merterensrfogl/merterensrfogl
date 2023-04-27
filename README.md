@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=merterensrfogl" alt="merterensrfogl" /></a> </p>
 
-- 🌱 Şu anda **Java* öğreniyorum *
+- 🌱  I’m currently learning Java
 
-- 📫 Bana nasıl ulaşabilirsiniz **merterenserifoglu@gmail.com**
+- 📫 How to reach me merterenserifoglu@gmail.com
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
